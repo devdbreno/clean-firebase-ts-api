@@ -1,0 +1,7 @@
+.env
+dist
+coverage
+node_modules
+ui-debug.log
+firebase-debug.log
+serviceAccount.json

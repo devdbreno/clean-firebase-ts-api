@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "clean-firebase-ts-api"
+  }
+}
